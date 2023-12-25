@@ -1,0 +1,1 @@
+The main objective is to develop a machine learning model capable of predicting the price of a diamond based on these characteristics. This can be beneficial for stakeholders in the diamond market, such as jewelers, diamond traders, or potential buyers.
